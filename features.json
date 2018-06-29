@@ -2,7 +2,6 @@
   "FEATURES" : {
     "IMAGE_UPLOADS": false,
     "IMAGE_UPLOAD": false,
-    "IMAGE_MAX_SIZE": 5242880,
-    "IMAGE_STORE": "aws"
+    "IMAGE_MAX_SIZE": 5242880
   }
 }
